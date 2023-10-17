@@ -1,0 +1,16 @@
+{
+    "name": "Clube do Green",
+    "short_name": "Clube do Green",
+    "icons": [
+      {
+        "src": "/favicon-clube.png", 
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "fullscreen",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+  }
+  
